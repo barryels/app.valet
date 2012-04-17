@@ -1,0 +1,6 @@
+$('').animate({
+  opacity: 1,
+  left: '+=0'
+}, 5000, function() {
+  // Animation complete.
+});

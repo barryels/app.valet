@@ -1,0 +1,1 @@
+public function set VARIABLE(value:TYPE):void{	_VARIABLE = value;}public function get VARIABLE():TYPE{	return _VARIABLE;}

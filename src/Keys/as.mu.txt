@@ -1,0 +1,4 @@
+private function OnMouseUp(event:MouseEvent):void
+{
+	
+}

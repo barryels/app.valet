@@ -1,0 +1,2 @@
+private var _$1:$2;
+public function set $1(value:$2):void{	_$1 = value;}public function get $1():$2{	return _$1;}
