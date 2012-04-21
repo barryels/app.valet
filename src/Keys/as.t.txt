@@ -1,5 +1,5 @@
 try {
-	
+	[INSERT]
 } catch (error:Error) {
 	
 }

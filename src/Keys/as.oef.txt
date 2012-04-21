@@ -1,0 +1,4 @@
+private function OnEnterFrame(event:Event):void
+{
+	[INSERT]
+}

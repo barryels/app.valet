@@ -1,0 +1,4 @@
+private function OnMouseMove(event:MouseEvent):void
+{
+	[INSERT]
+}

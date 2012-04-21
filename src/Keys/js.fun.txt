@@ -1,4 +1,4 @@
-function _function()
+function [INSERT]()
 {
 	
 }

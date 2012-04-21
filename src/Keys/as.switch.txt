@@ -2,4 +2,7 @@ switch ($1)
 {
 	case "":
 		break;
+	
+	default:
+		break;
 }

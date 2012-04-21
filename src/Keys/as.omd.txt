@@ -1,0 +1,4 @@
+private function OnMouseDown(event:MouseEvent):void
+{
+	[INSERT]
+}
